@@ -1,12 +1,13 @@
 #key	value
 name	Imran Ali Namazi
-byline	Eager for action
+byline	Eager for Action
 safeName	imran-ali-namazi
-iconName	Imran N
-footer-message	A fresh "WiseOwls" site, see my [older works here](https://imran.wiseowls.life/).
+iconName	Imran the Architect
+welcome-message	Welcome, do have a look around - see<br /><br />||* the **courtesies/DNA** at the bottom|* visit other sites in the **DAWN menu**|* also **[my writings](%url%writing/~~TARGETNEW)**.
+footer-message	Hello there, this is Colin the cleaner.
 siteMenuName	Imran Thrives
-sections	2025, more++: whois+ideas
-_todo	writing, +offerings
+sections	programs, With AI: 2026+2025, more++: whois+ideas+legacy+namazis
+_todo	+offerings
 local-url	http://localhost/people/imran/
 live-url	https://people.amadeusweb.world/imran/
 year	1983
