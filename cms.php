@@ -9,6 +9,9 @@ variables([
 ]);
 
 function site_before_render() {
+	if (getPageParameterAt(1) && nodeIsOneOf(['little-things', 'wordplay']))
+		variable('skip-container-for-this-page', true);
+
 	$section = variable('section');
 	if ($section != 'ideas') return;
 
