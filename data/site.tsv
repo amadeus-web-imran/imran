@@ -6,8 +6,8 @@ iconName	Imran the Architect
 welcome-message	Welcome, do have a look around - see<br /><br />||* the **courtesies/DNA** at the bottom|* visit other sites in the **DAWN menu**|* also **[my writings](%url%writing/~~TARGETNEW)**.
 footer-message	Hello there, this is Colin the cleaner.
 siteMenuName	Imran Thrives
-sections	programs, With AI: 2026+2025, more++: legacy+playground+whois+ideas+namazis
-_todo	+offerings
-local-url	http://localhost/people/imran/
-live-url	https://people.amadeusweb.world/imran/
+sections	programs, With AI: 2026+2025, more++: legacy+whois+ideas+namazis
+local-url	http://localhost/imran/
+live-url	https://amadeusweb.world/imran/
+showIn	authors
 year	1983
